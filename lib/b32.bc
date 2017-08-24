@@ -1,0 +1,4 @@
+-I"C:\des\build\bcc\include;C:\des\build\fwh\include;C:\des\build\xhb\include;C:\Des\FiveORM\include;"
+-L"C:\des\build\bcc\lib;C:\des\build\bcc\lib\psdk;C:\des\build\fwh\lib;C:\des\build\xhb\lib;C:\Des\FiveORM\lib;;;;"
+-o"C:\Des\FiveORM\obj\FiveORM.obj"
+"C:\Des\FiveORM\obj\FiveORM.c"

@@ -1,0 +1,42 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 24/08/2017 12:38:10                #
+#                                              #
+### Standard xDev Config - Layout v1.5 #########
+-->
+<project>
+   <option compiler="729685">
+   <option outputname="Entidade">
+   <option targettype="LIB">
+   <option outputpath="lib\">
+   <option root="($)">
+   <option runpath="">
+   <option runparams="">
+   <option pathch="include">
+   <option pathlib="lib">
+   <option pathobj="">
+   <option pathtooutput="obj">
+   <option defines="">
+   <option webframework="">
+   <option webrootdir="">
+   <option documentroot="">
+   <option custombrowser="">
+   <option makeincfile="Não">
+   <option taskprepare="">
+   <option taskfinalize="">
+   <option taskgroupprepare="">
+   <option taskgroupfinalize="">
+
+   <compilerparam name="FiveWin32.xCompiler">
+      <option presetsname="471317,449997,729685">
+      <option rdd2="Sim">
+   </compilerparam>
+
+   <unit filename="C:\Des\build\xhb\lib\libsql\libmysql.lib" compile="Sim">
+   <unit filename="C:\Des\build\xhb\lib\libsql\oci.lib" compile="Sim">
+   <unit filename="C:\Des\build\xhb\lib\libsql\odbccp32.lib" compile="Sim">
+   <unit filename="C:\Des\build\xhb\lib\libsql\sql.lib" compile="Sim">
+   <unit filename="C:\Des\build\xhb\lib\libsql\sqlbcc58.lib" compile="Sim">
+   <unit filename="src\framework\tabela.prg" main="true" compile="Sim" prg_disabledebug="Não">
+</project>
